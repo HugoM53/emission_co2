@@ -25,7 +25,7 @@ L'objectif est développer une application Java (utiliser IDE Processing) pour :
 
 Vous avez besoin de créer un tableau croisé permettant d'avoir une ligne par pays.
 
-Il faut utiliser la fonction "tableau dynamique" de Exce ou Calc (aides-vous des ressources internet)
+Il faut pour cela utiliser la fonction "tableau dynamique" de Excel ou Calc (aidez-vous des ressources internet)
 
 #### fichier de départ
 ![Format du site](donnees1.jpg)
@@ -35,10 +35,13 @@ Il faut utiliser la fonction "tableau dynamique" de Exce ou Calc (aides-vous des
 
 
 ## Etape 2 : Téléchargement du fichier csv (par programmation!)
+Avant de commencer votre programmation, générer le graphique avec votre tableur préféré (en principe vous devriez retrouver quelque chose qui ressemble au graphique ci-dessous)
+
+![graphique tableur](courbe_tableur.jpg)
 
 * `emissionco2v1.pde`
 
-![Exploitation avec Excel](excel2.PNG)
+![Exploitation avec Excel](courbe_tableur.jpg)
 
 ##  Etape 3 :Lecture du fichier csv
 
