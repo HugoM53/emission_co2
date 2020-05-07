@@ -41,8 +41,6 @@ Avant de commencer votre programmation, générer le graphique avec votre tableu
 
 * `emissionco2v1.pde`
 
-![Exploitation avec Excel](courbe_tableur.jpg)
-
 ##  Etape 3 :Lecture du fichier csv
 
 * `emissionco2v2.pde`
