@@ -48,7 +48,7 @@ Référez-vous au programme suivant et complétez-le
 Référez-vous au programme suivant et complétez-le 
 * `emissionco2v2.pde`
 
-##  Etape 5 :tracer les courbes d'évolution de la consommation
+##  Etape 5 :Production des courbes d'évolution CO2
 On tracera les courbes de l'évolution de la consommation pour les US, la Chine et la France
 
 Référez-vous au programme suivant et complétez-le 
