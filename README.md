@@ -1,4 +1,4 @@
-# emission_co2: Accès aux données
+# Emission_co2: Accès aux données
 
 Actuellement on constate une diminution des émissions de gaz à effet de serre due au ralentissement
 de l'activité éconmoique mondiale. Des organismes suivent ces évolutions à des fins d'analyse.
@@ -33,28 +33,26 @@ Il faut pour cela utiliser la fonction "tableau dynamique" de Excel ou Calc (aid
 #### résultat à obtenir
 ![Format à obtenir](donnees_croisess.jpg)
 
+## Etape 2 : Courbe de votre tableur 
+Avant de commencer votre programmation, générer le graphique avec votre tableur préféré 
 
-## Etape 2 : Téléchargement du fichier csv (par programmation!)
-#### 2.1 courbe tableur
-Avant de commencer votre programmation, générer le graphique avec votre tableur préféré (en principe vous devriez retrouver quelque chose qui ressemble au graphique ci-dessous)
+En principe vous devriez obtenir un graphique comme celui-ci :
 
 ![graphique tableur](courbe_tableur.jpg)
 
-#### 2.2 Première fonction de votre programme : récupérer les données brutes:
- * `emissionco2v1.pde`
-
 ##  Etape 3 :Lecture du fichier csv
-* `emissionco2v2.pde`
+Référez-vous au programme suivant et complétez-le 
+* `emissionco2v1.pde`
 
 ##  Etape 4 :Filtrage des données pour un pays
-
-* `emissionco2v3.pde`
+Référez-vous au programme suivant et complétez-le 
+* `emissionco2v2.pde`
 
 ##  Etape 5 :tracer les courbes d'évolution de la consommation
-
 On tracera les courbes de l'évolution de la consommation pour les US, la Chine et la France
 
-* `emissionco2v4.pde`
+Référez-vous au programme suivant et complétez-le 
+* `emissionco2v3.pde`
 
 
 
