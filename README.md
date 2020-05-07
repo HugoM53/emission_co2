@@ -19,7 +19,7 @@ L'objectif est développer une application Java (utiliser IDE Processing) pour :
 * les filtrer par pays,
 * Tracer un graphique de l'évolution des émissions annuelles.
 
-![résultat attendu](resultat.png)
+![résultat attendu](courbe_cumul.jpg)
 
 ## Etape 1: création d'un tableau croisé au format csv
 
