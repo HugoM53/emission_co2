@@ -1,4 +1,4 @@
-# Emission_co2: Accès aux données
+# Emission CO2: Traitement des données
 
 Actuellement on constate une diminution des émissions de gaz à effet de serre due au ralentissement
 de l'activité éconmoique mondiale. Des organismes suivent ces évolutions à des fins d'analyse.
