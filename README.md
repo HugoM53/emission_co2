@@ -28,17 +28,16 @@ Vous avez besoin de créer un tableau croisé permettant d'avoir une ligne par p
 Il faut pour cela utiliser la fonction "tableau dynamique" de Excel ou Calc (aidez-vous des ressources internet)
 
 #### fichier de départ
-![Format du site](donnees1.jpg)
+<img src="donnees1.jpg" alt="drawing" width="600"/>
 
 #### résultat à obtenir
-![Format à obtenir](donnees_croisess.jpg)
+<img src="donnees_croisess.jpg" alt="drawing" width="700"/>
 
 ## Etape 2 : Courbe de votre tableur 
 Avant de commencer votre programmation, générer le graphique avec votre tableur préféré 
 
 En principe vous devriez obtenir un graphique comme celui-ci :
-
-![graphique tableur](courbe_tableur.jpg)
+<img src="courbe_tableur.jpg" alt="drawing" width="600"/>
 
 ##  Etape 3 :Lecture du fichier csv
 Référez-vous au programme suivant et complétez-le 
