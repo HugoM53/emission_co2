@@ -35,14 +35,15 @@ Il faut pour cela utiliser la fonction "tableau dynamique" de Excel ou Calc (aid
 
 
 ## Etape 2 : Téléchargement du fichier csv (par programmation!)
+#### 2.1 courbe tableur
 Avant de commencer votre programmation, générer le graphique avec votre tableur préféré (en principe vous devriez retrouver quelque chose qui ressemble au graphique ci-dessous)
 
 ![graphique tableur](courbe_tableur.jpg)
 
-* `emissionco2v1.pde`
+#### 2.2 Première fonction de votre programme : récupérer les données brutes:
+ * `emissionco2v1.pde`
 
 ##  Etape 3 :Lecture du fichier csv
-
 * `emissionco2v2.pde`
 
 ##  Etape 4 :Filtrage des données pour un pays
