@@ -19,25 +19,34 @@ L'objectif est développer une application Java (utiliser IDE Processing) pour :
 * les filtrer par pays,
 * Tracer un graphique de l'évolution des émissions annuelles.
 
-![](propagation.png)
+## Etape 1: création d'un tableau croisé au format csv
 
-## création d'un tableau croisé au format csv
+Vous avez besoin de créer un tableau croisé permettant d'avoir une ligne par pays.
 
-## Téléchargement du fichier csv
+Il faut utiliser la fonction "tableau dynamique" de Exce ou Calc (aides-vous des ressources internet)
+
+#### fichier de départ
+![Format du site](donnees1.jpg)
+
+#### résultat à obtenir
+![Format à obtenir](donnees_croisess.jpg)
+
+
+## Etape 2 : Téléchargement du fichier csv (par programmation!)
 
 * `emissionco2v1.pde`
 
 ![Exploitation avec Excel](excel2.PNG)
 
-## Lecture du fichier csv
+##  Etape 3 :Lecture du fichier csv
 
 * `emissionco2v2.pde`
 
-## Filtrage des données pour un pays
+##  Etape 4 :Filtrage des données pour un pays
 
 * `emissionco2v3.pde`
 
-## tracer les courbes d'évolution de la consommation
+##  Etape 5 :tracer les courbes d'évolution de la consommation
 
 On tracera les courbes de l'évolution de la consommation pour les US, la Chine et la France
 
