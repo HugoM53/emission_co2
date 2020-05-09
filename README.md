@@ -5,8 +5,11 @@ de l'activité éconmoique mondiale. Des organismes suivent ces évolutions à d
 Datahub est une organisation qui offre des collections de données dans bon nombre de domaines.
 Ici, nous nous intéressons à l'évolution des émissions de CO2.
 
-Accès aux données brutes sur leur espace github : 
+<p>Accès aux données brutes sur leur espace github : 
 https://github.com/datasets/co2-fossil-by-nation/blob/master/data/fossil-fuel-co2-emissions-by-nation.csv
+  </p>
+
+> pour information, le site https://www.data.gouv.fr/fr/datasets/?format=csv offre une multitude de dataset csv
 
 Bien entendu, le fichier est trop volumineux. On vous propose une version plus légère couvrant les deux dernières décennies et se limitant à certains pays. fichiers excel ci-dessous.
 
