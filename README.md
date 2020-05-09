@@ -28,7 +28,7 @@ L'objectif est développer une application Java (utiliser IDE Processing) pour :
 1. [CSV Common Seperated Values](https://fr.wikipedia.org/wiki/Comma-separated_values#Basic_rules)
 2. [Données et processing (TP)](https://pixees.fr/informatiquelycee/procAnDo_a1.html)
 2. [Référence Processing](https://processing.org/reference/);
-2. [Vidéo sur la classe Tabular de Processing](https://youtu.be/woaR-CJEwqc)
+2. [Vidéo sur la classe Tabular de Processing](https://youtu.be/woaR-CJEwqc) et [sur le site Processing: tabular data](https://processing.org/tutorials/data/) 
 3. [Vidéo sur la classe Pvector de Processing](https://youtu.be/7nTLzLf7jUg)
 4. [Page PVector](https://processing.org/reference/PVector.html)
 5. [Vidéo - Installer une librairie Processing](https://youtu.be/MMbubxV6SzE)
