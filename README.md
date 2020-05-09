@@ -67,5 +67,10 @@ On tracera les courbes de l'évolution de la consommation pour les US, la Chine 
 Référez-vous au programme suivant et complétez-le 
 * `emissionco2v3.pde`
 
+##  Etape 5 : Pour aller plus loin
+-  Etendre les filtrages aux types des énergies fossiles par pays
+- Analyser le fichier complet du site : d'abord en le téléchargeant et ensuite en y accédant par le lien url (utiliser le lien avec le format raw)
+- Reprogrammer l'ensemble avec des classes (Programmation objet OOP)
+- Tester avec d'autres données :COVID entre autres (voir le même site datatsets ou www.data.gouv.fr/fr/datasets/?format=csv)
 
 
