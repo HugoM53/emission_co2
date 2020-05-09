@@ -21,6 +21,16 @@ L'objectif est développer une application Java (utiliser IDE Processing) pour :
 
 ![résultat attendu](courbe_cumul.jpg)
 
+## Ressources
+1. [CSV Common Seperated Values](https://fr.wikipedia.org/wiki/Comma-separated_values#Basic_rules)
+2. [Données et processing (TP)](https://pixees.fr/informatiquelycee/procAnDo_a1.html)
+2. [Référence Processing](https://processing.org/reference/);
+2. [Vidéo sur la classe Tabular de Processing](https://youtu.be/woaR-CJEwqc)
+3. [Vidéo sur la classe Pvector de Processing](https://youtu.be/7nTLzLf7jUg)
+4. [Page PVector](https://processing.org/reference/PVector.html)
+5. [Vidéo - Installer une librairie Processing](https://youtu.be/MMbubxV6SzE)
+8. Je ne vous recommande pas d'utiliser de librairies graphiques, cependant je vous indique quelques unes si vous décidez le contraire : [grafica](https://jagracar.com/sketches/defaultPlot.php), [gicentre](https://www.gicentre.net/utils/chart) ...
+
 ## Etape 1: création d'un tableau croisé au format csv
 
 Vous avez besoin de créer un tableau croisé permettant d'avoir une ligne par pays.
@@ -48,6 +58,7 @@ Référez-vous au programme suivant et complétez-le
 * `emissionco2v2.pde`
 
 ##  Etape 5 :Production des courbes d'évolution CO2
+**_<p>L'utilisation d'une librairie est peu recommandé</P>_**
 On tracera les courbes de l'évolution de la consommation pour les US, la Chine et la France
 
 Référez-vous au programme suivant et complétez-le 
