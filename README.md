@@ -22,7 +22,7 @@ L'objectif est développer une application Java (utiliser IDE Processing) pour :
 * les filtrer par pays,
 * Tracer un graphique de l'évolution des émissions annuelles.
 
-![résultat attendu](./img/resultat_attendu2.jpg)
+![résultat attendu](./img/resultat_attendu3.jpg)
 
 ***
 
