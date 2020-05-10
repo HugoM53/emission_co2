@@ -70,7 +70,7 @@ Référez-vous au programme suivant et complétez-le
 
 ##  Optionnel : Pour aller plus loin
 -  Etendre les filtrages aux types des énergies fossiles par pays
-- Exploiter le fichier complet du site : d'abord en le téléchargeant et ensuite en y accédant par le lien url (utiliser le lien avec le format raw)
+- Exploiter le fichier complet du site : d'abord en le téléchargeant et ensuite en y accédant par le lien url (utiliser [le lien raw](https://raw.githubusercontent.com/datasets/co2-fossil-by-nation/master/data/fossil-fuel-co2-emissions-by-nation.csv))
 - Afficher les données relatives à une période : ex de 1970 à 1990
 - IHM permettant de sélectionner les pays et les années
 - Reprogrammer l'ensemble avec des classes (Programmation objet OOP)
