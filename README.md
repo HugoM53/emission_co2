@@ -22,7 +22,7 @@ L'objectif est développer une application Java (utiliser IDE Processing) pour :
 * les filtrer par pays,
 * Tracer un graphique de l'évolution des émissions annuelles.
 
-![résultat attendu](courbe_cumul.jpg)
+![résultat attendu](./img/resultat_attendu.jpg)
 
 ## Ressources
 1. [CSV Common Seperated Values](https://fr.wikipedia.org/wiki/Comma-separated_values#Basic_rules)
@@ -42,16 +42,16 @@ Vous avez besoin de créer un tableau croisé permettant d'avoir une ligne par p
 Il faut pour cela utiliser la fonction "tableau dynamique" de Excel ou Calc (aidez-vous des ressources internet)
 
 #### fichier de départ
-<img src="donnees1.jpg" alt="drawing" width="600"/>
+<img src="./img/donnees1.jpg" alt="drawing" width="600"/>
 
 #### résultat à obtenir
-<img src="donnees_croisess.jpg" alt="drawing" width="700"/>
+<img src="./img/donnees_croisess.jpg" alt="drawing" width="700"/>
 
 ## Etape 2 : Courbe de votre tableur 
 Avant de commencer votre programmation, générer le graphique avec votre tableur préféré 
 
 En principe vous devriez obtenir un graphique comme celui-ci :
-<img src="courbe_tableur.jpg" alt="drawing" width="600"/>
+<img src="./img/courbe_tableur.jpg" alt="drawing" width="600"/>
 
 ##  Etape 3 :Lecture du fichier csv
 Référez-vous au programme suivant et complétez-le 
