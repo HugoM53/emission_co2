@@ -49,7 +49,9 @@ Il faut pour cela utiliser la fonction "tableau dynamique" de Excel ou Calc (aid
 
 #### résultat à obtenir
 <img src="./img/donnees_croisess.jpg" alt="drawing" width="700"/>
+
 ***
+
 ## Etape 2 : Courbe de votre tableur 
 Avant de commencer votre programmation, générer le graphique avec votre tableur préféré 
 
