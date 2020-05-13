@@ -3,9 +3,10 @@
 Actuellement on constate une diminution des émissions de gaz à effet de serre due au ralentissement
 de l'activité éconmoique mondiale. Des organismes suivent ces évolutions à des fins d'analyse.
 Datahub est une organisation qui offre des collections de données dans bon nombre de domaines.
-Ici, nous nous intéressons à l'évolution des émissions de CO2.
+Ici, nous nous intéressons à l'évolution des émissions de CO2 au niveau mondial.
+Lire cet article en guise de préambule : [Emissions de CO2 : ce que pèsent les Etats-Unis et la Chine](https://www.lemonde.fr/les-decodeurs/article/2014/11/12/emissions-de-co2-ce-que-pesent-les-etats-unis-et-la-chine_4522551_4355770.html)
 
-<p>Accès aux données brutes sur leur espace github : 
+<p>Accès aux données brutes de Datahub.io sur leur espace github : 
 https://github.com/datasets/co2-fossil-by-nation/blob/master/data/fossil-fuel-co2-emissions-by-nation.csv
   </p>
 
